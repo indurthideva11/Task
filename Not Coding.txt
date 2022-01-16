@@ -17,4 +17,24 @@ AWS,AZURE etc.
 
 Pega Certifications
 
+PEGA Systems Certifications
+
+1.Pega Certified Business Architect
+
+2.Pega Certified System Architect
+
+3.Pega Certified Senior System Architect
+
+4.Pega Certified Lead System Architect
+
+5.Pega Certified Robotics System Architect
+
+6.Pega Certified Data Scientist
+
+7.Pega Certified Decisioning Consultant
+
+8.Pega Certified Marketing Consultant
+
+
 Final Done
+
